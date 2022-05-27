@@ -1,0 +1,67 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+tests/read_raw_data.cc
+tests/read
+build/
+
+dataset.bin
+siga/include/config.h
+Testing/Temporary/CTestCostData.txt
+Testing/Temporary/LastTest.log
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/dcc012b-lab03-sort-vitoria-isabela/v17/.suo
+.vs/dcc012b-lab03-sort-vitoria-isabela/v17/Browse.VC.db
+.vs/dcc012b-lab03-sort-vitoria-isabela/v17/Browse.VC.db-shm
+.vs/dcc012b-lab03-sort-vitoria-isabela/v17/Browse.VC.db-wal
+.vs/dcc012b-lab03-sort-vitoria-isabela/v17/Browse.VC.opendb
