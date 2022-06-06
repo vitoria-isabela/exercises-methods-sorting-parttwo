@@ -104,6 +104,7 @@ void merge (T* array, int start, int end, bool (*compare)(T&, T&), PerformanceMe
     }
 
     int indexOfArrayEsq = 0, // Índice inicial do primeiro subarray
+
     indexOfArrayDir = 0; // Índice inicial do segundo subarray
     int indexOfMergedArray = start; // Índice inicial do array mesclado
 
